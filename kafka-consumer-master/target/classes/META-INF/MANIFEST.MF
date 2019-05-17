@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ravi.kumar
+Build-Jdk: 10.0.1
+Implementation-Title: kafka-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/kafka-consumer
+Created-By: Maven Integration for Eclipse
+
