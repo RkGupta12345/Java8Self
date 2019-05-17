@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ravi.kumar
+Build-Jdk: 10.0.1
+Implementation-Title: rest-api-1
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tutorialspoint
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/logger-testing
+Created-By: Maven Integration for Eclipse
+

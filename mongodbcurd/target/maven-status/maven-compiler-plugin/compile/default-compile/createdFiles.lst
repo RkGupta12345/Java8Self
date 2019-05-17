@@ -1,0 +1,7 @@
+com/exilant/mongotemplate/service/PersonService.class
+com/exilant/mongotemplate/service/PersonServiceImpl.class
+com/exilant/mongotemplate/model/Person.class
+com/exilant/mongotemplate/dao/PersonDaoImpl.class
+com/exilant/mongotemplate/controller/PersonController.class
+com/exilant/mongotemplate/dao/PersonDao.class
+com/exilant/mongotemplate/mongodbcurd/MongodbcurdApplication.class

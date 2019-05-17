@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ravi.kumar
+Build-Jdk: 10.0.1
+Implementation-Title: mongodbcurd
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.exilant.mongotemplate
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mongodbcurd
+Created-By: Maven Integration for Eclipse
+
